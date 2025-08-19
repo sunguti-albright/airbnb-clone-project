@@ -1,6 +1,10 @@
-# AIRBNB CLONE PROJECT
+# AIRBNB CLONE PROJECT 🏡
 
-## About the project
+## Developer
+
+[Ms. Albright Sunguti](https://albright-portfolio.vercel.app/)
+
+## About the project  :woman_technologist:
 The Goal of this project is to develop a comprehensive, real-world application designed to simulate the development of a robust booking platform like Airbnb. It involves a deep dive into full-stack development, focusing on backend systems, database design, API development, and application security.
 
 
@@ -72,4 +76,27 @@ Defining design properties like color and typography ensures visual consistency,
 + Product Owner	- Defines requirements, prioritizes features, represents stakeholders
 + Scrum Master	- Facilitates agile processes, removes blockers, organizes meetings
 
-## UI Component patterns
+## UI Component patterns ✨
+
+### Planned Components
+
+**Navbar**  
+- Logo  
+- Search bar  
+- User navigation (login/profile)  
+- Responsive menu for mobile  
+
+**Property Card**  
+- Property image  
+- Basic details (price, location, rating)  
+- Favorite button (wishlist)  
+- Responsive layout for grid display  
+
+**Footer**  
+- Site links (About, Contact, Help)  
+- Company information  
+- Social media links  
+- Copyright  
+
+### Why Component Patterns Matter
+Planning UI components ensures **reusability, consistency, and scalability**. It helps maintain a unified look and feel across the app, reduces development time, and allows for easier updates as the project grows.
