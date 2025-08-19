@@ -293,5 +293,4 @@ The backend for the Airbnb Clone project is designed to provide a robust and sca
 
 ---
 
-📌 **Repo:** [airbnb-clone-project](https://github.com/your-username/airbnb-clone-project)  
 📄 **Developed with enthusiasm and lots (I mean Lots 👩🏽) of Coffee ☕**
