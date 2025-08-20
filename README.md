@@ -41,3 +41,35 @@ The Goal of this project is to develop a comprehensive, real-world application d
 
 ### Importance of a User-Friendly Design
 A user-friendly booking system minimizes friction, increases trust, and encourages conversions. Clear navigation, responsive layouts, and transparent pricing help users make confident decisions, while accessibility ensures the platform is usable by a wider audience.
+
+## Figma Design Specifications 
+The figma design can be accessed [here](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-4)
+
+**Color Styles**  
+- Primary: `#FF5A5F`  
+- Secondary: `#008489`  
+- Background: `#FFFFFF`  
+- Text: `#222222`  
+- Secondary Text: `#717171`  
+
+**Typography**  
+- Primary Font: Circular  
+- Headings: Font weight Bold (700), font size 24px–32px  
+- Body Text: Medium (500), 16px  
+- Secondary Text: Book (400), 14px 
+
+**Why Identifying Design Properties Matters**  
+Defining design properties like color and typography ensures visual consistency, brand identity, and scalability. It helps both designers and developers work faster by providing a shared visual guide for building the interface.
+
+## Project Roles and Responsibilities
+
++ Project Manager -	Oversees timeline, coordinates team, manages deliverables
++ Frontend Developers - Implements UI components, ensures responsive design
++ Backend Developers	- Builds APIs, manages database, implements business logic
++ Designers	- Creates mockups, maintains design system, ensures UX quality
++ QA/Testers	- Writes test cases, performs testing, reports bugs
++ DevOps Engineers	- Manages deployment, CI/CD pipeline, server infrastructure
++ Product Owner	- Defines requirements, prioritizes features, represents stakeholders
++ Scrum Master	- Facilitates agile processes, removes blockers, organizes meetings
+
+## UI Component patterns
