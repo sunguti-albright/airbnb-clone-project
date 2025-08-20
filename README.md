@@ -76,7 +76,7 @@ Defining design properties like color and typography ensures visual consistency,
 + Product Owner	- Defines requirements, prioritizes features, represents stakeholders
 + Scrum Master	- Facilitates agile processes, removes blockers, organizes meetings
 
-## UI Component patterns ✨
+## UI Component Patterns ✨
 
 ### Planned Components
 
